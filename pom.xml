@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.qwep</groupId>
-    <artifactId>LicenseService</artifactId>
+    <artifactId>license-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>LicenseService</name>
     <description>LicenseService</description>
